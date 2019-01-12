@@ -17,6 +17,10 @@
 \RequirePackage{todonotes}
 \RequirePackage{mdframed}
 
+\RequirePackage{xcolor}
+\definecolor{darkblue}  {rgb} {0,0,.65}
+\definecolor{citegreen} {rgb} {0.28,0.41,0.19}
+
 \RequirePackage[%
   pdfstartview=FitH,%
   breaklinks=true,%
