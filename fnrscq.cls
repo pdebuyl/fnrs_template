@@ -16,6 +16,7 @@
 \RequirePackage{paralist}
 \RequirePackage{todonotes}
 \RequirePackage{mdframed}
+\RequirePackage{multicol}
 
 \RequirePackage{xcolor}
 \definecolor{darkblue}  {rgb} {0,0,.65}
