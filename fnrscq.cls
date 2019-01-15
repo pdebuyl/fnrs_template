@@ -35,7 +35,7 @@
   ]{hyperref}
 
 \RequirePackage[left=1.5cm,right=1.5cm,top=2cm,bottom=1.6cm]{geometry}
-\RequirePackage[explicit]{titlesec}
+\RequirePackage[explicit,compact]{titlesec}
 \usepackage{ulem}
 
 \titleformat{\section}
